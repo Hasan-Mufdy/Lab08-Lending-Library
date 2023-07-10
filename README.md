@@ -5,16 +5,9 @@ it allows users to add new books to their collection, manage them, borrow them, 
 
 ### example output (in the console):
 here is how the application functions:
-```
-Book 2 is now added to borrowed.
-Book 2 , name: firstname lastname pages: 500
-the Book: Book 2 is now unpacked
-```
-this example shows that a book titled "book 2" is added to the borrowed list, the details of the book, including the author's name and the number of pages, are then displayed. After that, it was unpacked.
-this output was the result of using these methods in the main method:
-```
+![console output](lendingbooksoutput.png)
 
-```
+this example shows that a book titled "book 2" is added to the borrowed list, the details of the book, including the author's name and the number of pages, are then displayed. After that, it was unpacked.
 
 to use this application:
 - clone this repo.
